@@ -5,4 +5,7 @@ let itemAvailable = true // variavel tipo boolean
 let itemColor   // variavel tipo UNDEFINIED
 itemName = null   //apaga o valor da variável
 
-console.log(itemName)
+
+//variáveis de referencia 
+
+// objects, arrays e functions
