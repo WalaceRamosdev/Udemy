@@ -21,3 +21,5 @@ let pen = {
 }
 
 console.log(pen)
+
+//Criando uma array
