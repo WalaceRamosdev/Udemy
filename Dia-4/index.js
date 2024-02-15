@@ -4,3 +4,6 @@ const movies = [
     {id: 3, movieName: 'El Dorado'}
 ]
 
+console.log(movies.find(function(movie){
+    return movie.movieName == 'Spirit'
+}))
