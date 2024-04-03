@@ -44,7 +44,7 @@
 }
 /*
 =============== 
-Global Styles
+Estilos Globais
 ===============
 */
 
@@ -125,9 +125,9 @@ p {
     line-height: 1;
   }
 }
-/*  global classes */
+/*  Classes Globais */
 
-/* section */
+/* Seções */
 .section {
   padding: 5rem 0;
 }
