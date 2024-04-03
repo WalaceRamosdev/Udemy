@@ -1,10 +1,10 @@
 /*Iremos aqui criar as variaveis*/
 
-const colors = ['Red', 'Blue', 'Yellow', 'Purple', 'Green']
+const colors = ['Red', 'Blue', 'Gray', 'Yellow', 'Purple', 'Green']
 const btn = document.getElementById('btn')
 const color = document.querySelector('.color')
 
-/* Aqui será criado as funções*/
+/* Aqui será criado as função de click */
 
 btn.addEventListener('click', function(){
     const randomColor = getRandomColor()
@@ -13,7 +13,7 @@ btn.addEventListener('click', function(){
     //console.log(randomColor)
 })
 
-/* Criando uma função para numero randomico*/
+/* Criando uma função para numero randomico */
 
 function getRandomColor () {
     return Math.floor(Math.random() * colors.length)
