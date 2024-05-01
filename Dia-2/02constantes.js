@@ -8,7 +8,7 @@ let price = 30
 price = 20
 console.log(price)
 
-De inicio, a variavel price recebeu o valor de 30, mas logo na linha seguinte o seu valor é alterado para 20, sendo assim, o valor a se exibido na console do navegador será o segundo valor que é igual à 20.
+De inicio, a variavel price recebeu o valor de 30, mas logo na linha seguinte o seu valor é alterado para 20, sendo assim, o valor a ser exibido na console do navegador será o segundo valor que é igual à 20.
 
 const = recebe um valor que não pode ser alterado, será um valor constante para toda a vida útil do código.
 

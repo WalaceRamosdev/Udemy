@@ -1,6 +1,6 @@
 /* Terceira variavel de referencia -
 
-Functions = São basicamente um grupo de tarefas ou cálculos de códigos que podem ser reaproveitados dentro 
+Functions = São basicamente um grupo de tarefas ou cálculos de códigos que podem ser reaproveitados dentro do código
 
 */
 
